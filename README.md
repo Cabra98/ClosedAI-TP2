@@ -30,8 +30,6 @@ Para comprobar el buen funcionamiento del programa, se codificaron 3 testeos.
 Test 1: Con este test se comprueba el buen fucionamiento de la libreria encargada de transformar los numeros flotantes. Se les pasa ciertos 
 
 
-ver evidencia de depuracion con gdb para encontrar
-
 
 
 
